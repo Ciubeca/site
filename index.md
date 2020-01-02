@@ -23,6 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[Link] (www.google.it)
 [Link](url) and ![Image](src)
 ```
 
